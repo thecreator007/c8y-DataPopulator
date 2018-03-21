@@ -1,0 +1,68 @@
+{
+"devices":[
+{
+"Name":"Ascendas IT Park",
+"status":"ACTIVE",
+"exname":"Ascendas_IT_Park",
+"serial":"A1s2c3e4n5d6a7s",
+"lat":12.9858631,
+"lng":80.24649569999997
+},
+{
+"Name":"Apollo Multispecialty Hospital",
+"status":"ACTIVE",
+"exname":"Apollo_Multispecialty_Hospital",
+"serial":"A1p2o3l4l5o",
+"lat":12.9630713,
+"lng":80.24574949999999
+},
+{
+"Name":"Tidel Park",
+"status":"MAINTENANCE",
+"exname":"Tidel_Park",
+"serial":"T1i2d3e4l5",
+"lat":12.9895733,
+"lng":80.24859830000003
+},
+{
+"Name":"Sathyam Cinemas",
+"status":"INACTIVE",
+"exname":"Sathyam_Cinemas",
+"serial":"S1a2t3h4y5a6m",
+"lat":13.0553683,
+"lng":80.25796679999996
+},
+{
+"Name":"Express Avenue Mall",
+"status":"ACTIVE",
+"exname":"Express_Avenue_Mall",
+"serial":"E1A2m3a4l5l6",
+"lat":13.0586561,
+"lng":80.26408449999997
+},
+{
+"Name":"Ramanujan IT City",
+"status":"ACTIVE",
+"exname":"Ramanujan_IT_City",
+"serial":"R1a2m3a4n5u6j7a8n",
+"lat":12.990833,
+"lng":80.24694399999998
+},
+{
+"Name":"Forum Vijaya Mall",
+"status":"ACTIVE",
+"exname":"Forum_Vijaya_Mall",
+"serial":"F1o2r3u4m5",
+"lat":13.0499006,
+"lng":80.2094945
+},
+{
+"Name":"DLF IT SEZ Park",
+"status":"MAINTENANCE",
+"exname":"DLF_IT_SEZ_Park",
+"serial":"D1L2F3I4T5",
+"lat":13.0241899,
+"lng":80.1772628
+}
+]
+}
